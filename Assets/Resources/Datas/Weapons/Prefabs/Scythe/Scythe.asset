@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ce6c84e44084fbd8199f0bcc936683f, type: 3}
+  m_Name: Scythe
+  m_EditorClassIdentifier: 
+  weaponName: Scythe
+  weaponSprite: {fileID: -1442102736, guid: e1200dfdaa96ee1469ae2b24409eafdc, type: 3}
+  weaponDamage: 5

@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - RoomSpawn
+  - Rooms
+  - Boss
+  - AttackHitbox
+  - EnemyHitbox
+  - PlayerHitbox
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - GUI
+  - Water
+  - UI
+  - 
+  - Wall
+  - Attack
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Layer 1
+  - Layer 2
+  - Layer 3
+  - 
+  - 
+  - 
+  - Player
+  - Enemy
+  - 
+  - 
+  - 
+  - Floor
+  m_SortingLayers:
+  - name: Floor
+    uniqueID: 90813999
+    locked: 0
+  - name: GUI
+    uniqueID: 1641535985
+    locked: 0
+  - name: Player
+    uniqueID: 616821621
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Layer 1
+    uniqueID: 2425651459
+    locked: 0
+  - name: Layer 2
+    uniqueID: 4250941897
+    locked: 0
+  - name: Layer 3
+    uniqueID: 4189426099
+    locked: 0
